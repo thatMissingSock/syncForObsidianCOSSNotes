@@ -1,4 +1,6 @@
 ### Computer Architecture Introduction Notes
+
+##### **FORENOTE** - These notes randomly stop as one of the pre-session videos cuts off mid-sentence. I assume he will talk more about all of the following in *more* detail in the session. Thus, I will update [[Week 1 Main Notes]] as needed.
 ##### Computer Structure - Top Level
 - Central processing unit (CPU) is what does all the data computations 
 - Main memory is where the RAM is
