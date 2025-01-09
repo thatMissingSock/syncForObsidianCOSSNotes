@@ -1,0 +1,6 @@
+![[weekOneQuestions_250109_211441_0.png]]
+![[weekOneQuestions_250109_211441_1.png]]
+![[weekOneQuestions_250109_211441_2.png]]
+![[weekOneQuestions_250109_211441_3.png]]
+![[weekOneQuestions_250109_211441_4.png]]
+![[weekOneQuestions_250109_211441_5.png]]
