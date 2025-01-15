@@ -48,3 +48,12 @@ First couple of weeks will be intro and the rest will be *assembly-like* languag
 	- the size of the word depends on the processor
 	- on x86 systems the "standard" word size is 32 bits
 	- on x64 systems the "standard" word size is 64 bits
+- processor speed is *much* quicker than the main memory speed
+- another issue is that processor memory speed is orders of magnitude faster than DRAM memory (and only getting quicker)
+- to fix this, you add memory that is slower than the processor yet faster than the main memory
+![[Pasted image 20250114190954.png]]
+(Above shows different examples of cache's. The bottom example is much more realistic.)
+- **cache miss** - when the CPU requests something that is not in ANY of the cache's
+	- tends to be more inefficient
+- cache contains a copy of recently accessed main memory (and it's neighbours)
+
