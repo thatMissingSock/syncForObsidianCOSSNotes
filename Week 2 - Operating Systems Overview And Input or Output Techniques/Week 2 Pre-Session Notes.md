@@ -1,4 +1,4 @@
-**FORENOTE** - This was just an intro into I/O devices and the multiple techniques into how they can be utilised, I *assume* that there will be more in-depth notes in the [[Week 2 Main Notes]] 
+**FORENOTE** - This was just an intro into operating systems, I *assume* that there will be more in-depth notes in the [[Week 2 Main Notes]] 
 #### What is an operating system?
 - It is an extended (or virtual) machine
 	- provides a simple abstract view (doesn't show all of the details)

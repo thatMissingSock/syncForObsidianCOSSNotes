@@ -7,3 +7,8 @@
 [[Week 2 Main Notes]]
 [[Week 2 Pre-Session Notes]]
 [[Week 2 Tutorial Questions]]
+
+### Week 3 - Input-Output Techniques & Instruction Set Architectures
+[[Week 3 Main Notes]]
+[[Week 3 Pre-Session Notes]]
+[[Week 3 Tutorial Questions]]
