@@ -1,4 +1,4 @@
-I made some notes about the videos in the [[Week 1 Pre-session Notes]]
+I made some notes about the videos in the [[Week 1 Pre-Session Notes]]
 
 First couple of weeks will be intro and the rest will be *assembly-like* language.
 
@@ -12,7 +12,7 @@ First couple of weeks will be intro and the rest will be *assembly-like* languag
 - *user-visible registers* can be referenced by machine languages
 	- available to all programs
 	- data and address can be accessed and changed
-- annotated *basic instruction cycle* found in [[Week 1 Pre-session Notes]]
+- annotated *basic instruction cycle* found in [[Week 1 Pre-Session Notes]]
 
 ##### Characteristics of a (hypothetical) machine
 - instructions tend to be a fixed length

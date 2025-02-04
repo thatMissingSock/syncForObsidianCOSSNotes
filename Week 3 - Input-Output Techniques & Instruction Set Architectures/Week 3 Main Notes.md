@@ -1,0 +1,1 @@
+***FORENOTE:*** I did not make any main notes for this one as I joined this class at home and an event occurred which meant that I could not focus
