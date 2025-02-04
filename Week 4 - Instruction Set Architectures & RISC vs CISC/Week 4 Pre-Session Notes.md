@@ -1,4 +1,3 @@
-
 ## Definitions
 - [[#Instruction Set]] - collection of instructions that are understood by the CPU, represented by binary
 - Operand - the mathematical or computational function (and, or, +, -, /, etc)
